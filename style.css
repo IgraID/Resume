@@ -1,0 +1,16 @@
+body {
+ background-image: url(https://oir.mobi/uploads/posts/2021-03/1616971647_58-p-fon-dlya-slaida-v-prezentatsii-58.jpg);
+ background-repeat: no-repeat;   
+}
+b {
+    color: rgb(35, 8, 135);
+    font-family: Courier, monospace;
+}
+p {
+    color: rgb(21, 84, 88) ;
+    font-family: cursive;
+}
+ol {
+    color: rgb(105, 34, 12);
+    font-family: cursive;
+}
